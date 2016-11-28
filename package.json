@@ -1,6 +1,6 @@
 {
   "name": "react-native-index-page",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "main": "lib/index",
   "files": [
     "lib"
@@ -14,6 +14,6 @@
   },
   "dependencies": {
     "antd-mobile": "0.8.x",
-    "react-native-router-flux": "~3.35.0"
+    "react-native-router-flux": "3.x"
   }
 }
