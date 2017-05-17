@@ -9,11 +9,10 @@
     "publish":"git push origin"
   },
   "devDependencies": {
-    "react-native": "0.33.0",
+    "react-native": "0.39.0",
     "react": "15.3.x"
   },
   "dependencies": {
-    "antd-mobile": "0.8.x",
-    "react-native-router-flux": "3.x"
+    "react-navigation": "~1.0.0-beta.9"
   }
 }
