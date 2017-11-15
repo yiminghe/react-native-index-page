@@ -3,12 +3,14 @@ import {
   Text,
 } from 'react-native';
 
-const A = React.createClass({
-  render() {
-    return <Text>I am A</Text>;
-  }
-});
+// class A extends React.Component{
+//   render() {
+//     return
+//   }
+// }
 
 export const title = "A";
 
-export const Demo = A;
+export const Demo = () => (
+  <Text>I am A</Text>
+);

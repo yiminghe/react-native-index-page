@@ -1,6 +1,6 @@
 {
   "name": "react-native-index-page",
-  "version": "0.2.2",
+  "version": "2.0.0",
   "main": "lib/index",
   "files": [
     "lib"
@@ -9,10 +9,10 @@
     "publish":"git push origin"
   },
   "devDependencies": {
-    "react-native": "~0.39.0",
-    "react": "^15.x"
+    "react-native": "~0.49.3",
+    "react": "^16.0.0"
   },
   "dependencies": {
-    "react-navigation": "1.0.0-beta.12"
+    "react-navigation": "~1.0.0-beta.19"
   }
 }
